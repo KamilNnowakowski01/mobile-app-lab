@@ -37,7 +37,7 @@ npm run start
 ---
 
 ## 📸 Screenshots
-
+| ---------- | --------- |
 |------------|-----------|
 | ![dark-screen-home](./docs/dark-screen-home.PNG) | ![top-screen-month](./docs/top-screen-month.PNG) |
 | ![bottom-screen-week](./docs/bottom-screen-week.PNG) | ![bottom-screen-month](./docs/bottom-screen-month.PNG) |
