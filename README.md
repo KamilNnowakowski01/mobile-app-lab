@@ -28,8 +28,8 @@ Built with **React Native**, **Expo**.
 ## 🔧 Getting Started
 
 ```bash
-git clone ---
-cd mood-tracker-app
+gh repo clone KamilNnowakowski01/mobile-app-lab
+cd mobile-app-lab
 npm install
 npm run start
 ```
